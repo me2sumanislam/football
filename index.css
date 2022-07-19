@@ -1,0 +1,51 @@
+ 
+.banner{
+    background-color:black;
+    width:600;
+    height:500px;
+    display:flex;
+    padding:20px;
+    margin-right:50px;
+    margin-left:50px;
+    border-radius:20px;
+    margin-top:30px;
+
+}
+.banner-heading{
+    width:50%;
+     margin-left:10%;
+}
+
+.banner-heading h1{
+    margin-top:20px;
+}
+
+
+.banner-img{
+    width:700px;
+    height:700px;
+      margin-left:10%;
+}
+
+
+
+.banner-heading h1,p{
+
+    color:white;
+    font-size:30px;
+
+}
+
+button{
+    width:150px;
+    height:70px;
+    padding:10px;
+    background-color:rgb(211, 63, 4);
+    border-radius:10px;
+     
+}
+
+button i{
+    margin-left:10px;
+}
+
