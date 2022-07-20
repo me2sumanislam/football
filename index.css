@@ -153,10 +153,35 @@ border:2px whitesmoke;
 .footer-nav-section a{
     color:white;
     text-decoration:none;
-    /* margin:30px; */
-    /* align-items:center; */
-    /* justify-content:space-between; */
-     
     
      }
+
+     .footer-nav-section{
+        text-align:center;
+     }
+
+ .social-link span{
+    color:white;
+    margin-left:10px;
+
+ }
+
+ .fa-facebook{
+    color:blue;
+ }
+
+ .fa-twitter{
+color:#1DA1F2;
+
+ }
+
+ .fa-instagram{
+color:#C13584;
+ }
+
+.social-link{
+    margin-top:130px;
+    text-align:center;
+}
+
 
