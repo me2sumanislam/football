@@ -22,9 +22,9 @@
 
 
 .banner-img{
-    width:700px;
-    height:700px;
-      margin-left:10%;
+    width:300px;
+    height:200px;
+      /* margin-left:10%; */
 }
 
 
@@ -113,7 +113,7 @@ color:black;
 
 .blogs div{
  border-radius:15px;
-text-align:center;
+/* text-align:center; */
 height:50%;
 width:100%;
 border:2px whitesmoke;
