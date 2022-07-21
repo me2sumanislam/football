@@ -1,4 +1,15 @@
  
+
+/* media-query-start */
+@media screen and (max-width: 600px) {
+    body {
+        color: blue;
+    }
+}
+
+/* media-query-end */
+
+
  /* banner-style-start */
 
  .banner{
