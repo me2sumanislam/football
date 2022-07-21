@@ -1,11 +1,57 @@
  
 
-/* media-query-start */
-@media screen and (max-width: 600px) {
-    body {
-        color: blue;
+/* media-query-start */ 
+ 
+
+  @media screen and (max-width: 600px) {
+    
+       .banner-img{
+
+        width:250px;
+        display:block;
+        margin-top:550px;
+        float:left;
+        justify-content:center;
+      text-align:center;
+      margin-left:50px;
+      padding:70px;
+      border:3px solid green;
+      text-align:center;
+
     }
-}
+
+
+    .gllary{
+
+      width:250px;
+      display:block;
+      margin-top:500px;
+      float:left;
+      padding:70px;
+      border:3px solid green;
+      text-align:center;
+
+
+    }
+
+    .germany-vs-france{
+       
+      width:250px;
+      display:block;
+      margin-top:500px;
+      float:left;
+      padding:70px;
+      border:3px solid green;
+      text-align:center;
+
+
+    }
+  }
+
+
+
+
+
 
 /* media-query-end */
 
